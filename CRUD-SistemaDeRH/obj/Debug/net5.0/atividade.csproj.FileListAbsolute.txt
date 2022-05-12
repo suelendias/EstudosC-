@@ -1,0 +1,70 @@
+C:\Users\Mitchel\source\repos\atividade\obj\Debug\net5.0\atividade.csproj.AssemblyReference.cache
+C:\Users\Mitchel\source\repos\atividade\obj\Debug\net5.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitchel\source\repos\atividade\obj\Debug\net5.0\atividade.AssemblyInfoInputs.cache
+C:\Users\Mitchel\source\repos\atividade\obj\Debug\net5.0\atividade.AssemblyInfo.cs
+C:\Users\Mitchel\source\repos\atividade\obj\Debug\net5.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\atividade.exe
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\atividade.deps.json
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\atividade.runtimeconfig.json
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\atividade.runtimeconfig.dev.json
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\atividade.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\ref\atividade.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\atividade.pdb
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mitchel\source\repos\atividade\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mitchel\source\repos\atividade\obj\Debug\net5.0\atividade.dll
+C:\Users\Mitchel\source\repos\atividade\obj\Debug\net5.0\ref\atividade.dll
+C:\Users\Mitchel\source\repos\atividade\obj\Debug\net5.0\atividade.pdb
+C:\Users\Mitchel\source\repos\atividade\obj\Debug\net5.0\atividade.genruntimeconfig.cache
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\atividade.exe
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\atividade.deps.json
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\atividade.runtimeconfig.json
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\atividade.runtimeconfig.dev.json
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\atividade.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\ref\atividade.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\atividade.pdb
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\MySql.Data.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\ZstdNet.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\obj\Debug\net5.0\atividade.csproj.AssemblyReference.cache
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\obj\Debug\net5.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\obj\Debug\net5.0\atividade.AssemblyInfoInputs.cache
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\obj\Debug\net5.0\atividade.AssemblyInfo.cs
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\obj\Debug\net5.0\atividade.csproj.CoreCompileInputs.cache
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\obj\Debug\net5.0\atividade.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\obj\Debug\net5.0\ref\atividade.dll
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\obj\Debug\net5.0\atividade.pdb
+D:\Suelen\Faculdades\SENAC\2° Período\Coding\atividade\obj\Debug\net5.0\atividade.genruntimeconfig.cache
